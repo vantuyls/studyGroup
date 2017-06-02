@@ -2,7 +2,7 @@
 title: Study Group Meetup - Introduction to D3
 text: Come get an introduction to data visualization with D3 with Ian Munoz from the Center for Genome Research and Biocomputing. 
 location: Barnard - The Valley Library
-link: https://github.com/vantuyls/studyGroup/issues/15
+link: https://github.com/vantuyls/studyGroup/issues/20
 date: 2017-06-13
 startTime: '12:00'
 endTime: '13:30'
